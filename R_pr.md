@@ -1,7 +1,7 @@
 ## JIRA Ticket
 #[]()
 
-## Type of change
+## Type of changes
 - [ ] **Bugfix**
 - [ ] **New feature**
 - [ ] **Refactoring**
